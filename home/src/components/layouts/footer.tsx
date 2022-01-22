@@ -1,9 +1,8 @@
 import React from "react";
-
 const Footer =  () =>  (
-    <div style={"font-size: 20px; color: red;"}>
+    <footer>
         This is footer 
-    </div>
+    </footer>
 );
 
 export default Footer;
